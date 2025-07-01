@@ -5,6 +5,7 @@ I'm a Computer Science student at Kasetsart University with a passion for game d
 ## 🚀 Interests
 - Game Development 🎮
 - Software Engineering 💻
+- Security 🔒
 - Exploring new technologies 🔍
 
 ## 🌐 Socials:
